@@ -41,6 +41,7 @@
 
 ## Programming.
 * [The Pragmatic Programmer. Authors: Andy Hunt, Dave Thomas]()
+* [Clean Code. Robert Martin "Uncle Bob"]()
 
 
 
