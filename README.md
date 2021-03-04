@@ -17,6 +17,42 @@
 
 
 ## Java.
+* []()
+
+
+
+
+
+## Programming Architecture.
+* [Reactive Microservice Architecture]()
+* [Domain Driven Design]()
+* [Microservice Patterns]()
+* []()
+
+
+
+
+
+## Vert.x
+* [Vert.x in Action]()
+* []()
+
+
+
+
+
+## Spring Framework.
+* [Spring Boot Cookbook.]()
+* []()
+
+
+
+
+
+## Kubernetes.
+* [Kubernetes in Action]()
+* []()
+
 
 
 
@@ -25,6 +61,7 @@
 ## DevOps.
 * [The Phoenix Project.]()
 * [The DevOps Handbook.]()
+* []()
 
 
 
@@ -45,7 +82,6 @@
 * [The Pragmatic Programmer. Andy Hunt, Dave Thomas.]()
 * [Clean Code. Robert Martin "Uncle Bob"]()
 * [RestFul Web Services. Leonard Richardson, Sam Ruby.]()
-* [Spring Boot Cookbook.]()
 * []()
 
 
