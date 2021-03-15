@@ -91,6 +91,7 @@
 ## General Education.
 * [Life 3.0 Max Tegmark]()
 * [Sapiens: A Brief History of Humankind. Yuval Noah Harari]()
+* [21 Lessons For The 21st Century. Yuval Noah Harari]()  
 * [Economics: The User's guide. Ha-Joon Chang]()
 * [The Vital Question: Energy, Evolution, and the Origins of Complex Life. Nick Lane]()
 * [The Universe in Your Hand: A Journey Through Space, Time, and Beyond. Christophe Galfard]()
