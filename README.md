@@ -82,6 +82,7 @@
 * [The Pragmatic Programmer. Andy Hunt, Dave Thomas.]()
 * [Clean Code. Robert Martin "Uncle Bob"]()
 * [RestFul Web Services. Leonard Richardson, Sam Ruby.]()
+* [Enterprise Integration Patterns.](https://www.enterpriseintegrationpatterns.com/)
 * []()
 
 
