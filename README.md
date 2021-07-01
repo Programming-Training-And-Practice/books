@@ -5,12 +5,28 @@
 
 
 ## Contents at a Glance.
+* [General Education.](#general-education)
 * [Java.](#java)
 * [DevOps.](#devops)
 * [Algorithms.](#algorithms)
 * [Programming.](#programming)
-* [General Education.](#general-education)
 * [Help.](#help)
+
+
+
+
+
+## General Education.
+* [Life 3.0 Max Tegmark]()
+* [Sapiens: A Brief History of Humankind. Yuval Noah Harari]()
+* [21 Lessons For The 21st Century. Yuval Noah Harari]()
+* [Economics: The User's guide. Ha-Joon Chang]()
+* [The Vital Question: Energy, Evolution, and the Origins of Complex Life. Nick Lane]()
+* [The Universe in Your Hand: A Journey Through Space, Time, and Beyond. Christophe Galfard]()
+* [Brief Answers to the Big Questions. Stephen Hawking.]()
+* [The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind. Michio Kaku]()
+* [We Are Our Brains: From the Womb to Alzheimer's. Dick Swaab]()
+* []()
 
 
 
@@ -27,6 +43,7 @@
 * [Reactive Microservice Architecture]()
 * [Domain Driven Design]()
 * [Microservice Patterns]()
+* [Continuous Architecture in Practice: Software Architecture in the Age of Agility and DevOps](https://www.google.com/search?q=continuous+architecture+in+practice+software+architecture+in+the+age+of+agility+and+devops&newwindow=1&safe=active&ei=6iHeYOOWE5KsUtC1raAJ&gs_ssp=eJxdysENgCAMQNF4NXGHbiCs4QheDClFG5USKBqdXs6efvLy-2FcR2vP5d1TycZ004wSlWOVWsBl3FgJtWYCjpCyQ2UkKBL0dg3_h27NVgIJLXywPuCiB0-XpPIBQVYnhQ&oq=continuous+architecture+in+practice+&gs_lcp=Cgdnd3Mtd2l6EAEYADIFCC4QkwIyAggAMgYIABAWEB46BwgAEEcQsANKBAhBGABQ0zRY0zRgoWxoAXACeACAAVuIAZ8BkgEBMpgBAKABAaoBB2d3cy13aXrIAQLAAQE&sclient=gws-wiz)
 * []()
 
 
@@ -44,6 +61,13 @@
 ## Spring Framework.
 * [Spring Boot Cookbook.]()
 * []()
+
+
+
+
+
+## Apache Kafka.
+* [Apache Kafka in Action.]()
 
 
 
@@ -83,22 +107,6 @@
 * [Clean Code. Robert Martin "Uncle Bob"]()
 * [RestFul Web Services. Leonard Richardson, Sam Ruby.]()
 * [Enterprise Integration Patterns.](https://www.enterpriseintegrationpatterns.com/)
-* []()
-
-
-
-
-
-## General Education.
-* [Life 3.0 Max Tegmark]()
-* [Sapiens: A Brief History of Humankind. Yuval Noah Harari]()
-* [21 Lessons For The 21st Century. Yuval Noah Harari]()  
-* [Economics: The User's guide. Ha-Joon Chang]()
-* [The Vital Question: Energy, Evolution, and the Origins of Complex Life. Nick Lane]()
-* [The Universe in Your Hand: A Journey Through Space, Time, and Beyond. Christophe Galfard]()
-* [Brief Answers to the Big Questions. Stephen Hawking.]()
-* [The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind. Michio Kaku]()
-* [We Are Our Brains: From the Womb to Alzheimer's. Dick Swaab]()
 * []()
 
 
